@@ -12,7 +12,6 @@
     ​
     <artifactId>xc-service-manage-cms</artifactId>
     ​<!-- a -->
-	​<!-- aaaa -->
     <dependencies>
         <dependency>
             <groupId>com.xuecheng</groupId>
